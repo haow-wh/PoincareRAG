@@ -1,0 +1,13 @@
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+
+# 忽略环境配置和密钥
+config.yaml
+.env
+venv/
+
+# 忽略本地生成的数据和索引
+working_dir/
+output/
+*.log
