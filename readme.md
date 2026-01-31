@@ -1,6 +1,10 @@
 # PoincaréRAG
 
-PoincaréRAG: Modeling Hierarchical Query Intents for Retrieval-Augmented Generation
+PoincaréRAG: Modeling Hierarchical Query Intents for Retrieval-Augmented Generation  
+Submitted to IEEE TKDE (IEEE Transactions on Knowledge and Data Engineering)
+## Overview of PoincaréRAG
+
+![model](img/model.png)
 ## Features
 
 - Hyperbolic embedding pipeline with hierarchical retrieval
