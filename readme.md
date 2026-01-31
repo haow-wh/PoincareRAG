@@ -1,7 +1,7 @@
 # PoincaréRAG
 
 PoincaréRAG: Modeling Hierarchical Query Intents for Retrieval-Augmented Generation  
-Submitted to IEEE TKDE (IEEE Transactions on Knowledge and Data Engineering)
+Submitted to IEEE Transactions on Knowledge and Data Engineering
 ## Overview of PoincaréRAG
 
 ![model](img/model.png)
