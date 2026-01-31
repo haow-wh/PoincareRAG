@@ -3,7 +3,9 @@
 This repository is the implementation of PoincaréRAG:
 
 > PoincaréRAG: Modeling Hierarchical Query Intents for Retrieval-Augmented Generation  
-> Meng Yuan, Hao Wang, Zhao Zhang, Wei Chen, Yutian Xiao, Deqing Wang, Fuzhen Zhuang.
+> Meng Yuan, Hao Wang, Zhao Zhang, Wei Chen, Yutian Xiao, Deqing Wang, Fuzhen Zhuang.  
+> Submitted to lEEE Transactions on Knowledge and Data Engineering（TKDE）
+
 ## Overview of PoincaréRAG
 
 ![model](img/model.png)
